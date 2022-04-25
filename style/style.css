@@ -16,8 +16,8 @@ a:hover{
 .banner{    
     width: 100%;
     height: 600px;
-    background-image: url('../imagens/capa2.jpg');
-    background-position: center;
+    background-image: url('../imagens/capa4.jpeg');
+    background-position: bottom;
     position: relative;
 }
 
@@ -26,13 +26,13 @@ a:hover{
     height: 200px;
     text-align: center;
     position: absolute;
-    right: 100px;
+    right: 158px;
     bottom: 250px;
 }
 .box-background{
     width: 100%;
     height: 100%;
-    background-color: #000;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.855), transparent);
     opacity: .8;
     position: relative;
 }
@@ -61,7 +61,7 @@ a:hover{
 .company-info-background{
     width: 100%;
     height: 100%;
-    background-color: #ddd;
+    background-color: rgba(221, 221, 221, 0.684);
     opacity: .9;
 }
 .company-info-titlebox{
