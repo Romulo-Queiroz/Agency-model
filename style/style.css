@@ -2,6 +2,15 @@
 html{
     font-family: helvetica, sans-serif;
 }
+/* Configurando links (todos) */
+a{
+    color: #2364aa;
+    text-decoration: none;
+}
+a:hover{
+    background-color: #73bfb8;
+}
+
 
 /* Banner */
 .banner{    
