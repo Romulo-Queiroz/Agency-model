@@ -303,4 +303,67 @@ html{
     right: 0;
     left: 0;
 }
+.company-info-titlebox{
+    width: 250px;
+}
+.company-info-titlebox h2{
+    font-size: 17px;
+    font-weight: bold;
+}
+.company-info-titlebox p{
+    font-size: 14px;
+}
+.service-box{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+}
+.service-title{
+    font-weight: bold;
+    margin: 0;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
+.service-description{
+    font-size: 15px;
+}
+.about-container{
+    position: relative;
+    background-color: #D7D7D7;
+    height: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.about-card{
+    align-items: center;
+    justify-content: center;
+}
+.middle-card{
+    align-items: center;
+    justify-content: center;
+}
+.about-card{
+    width: 200px;
+    height: 600px;
+    margin-bottom: 10px;
+}
+.form-container{
+  display: none;
+}
+.form-background{
+    display: none;
+}
+form{
+   display: none;
+}
+.copyright{
+    width: 200px;
+}
+footer{
+   height: 100px;
+   width: 100%;
+   padding: 0;
+}
 }
