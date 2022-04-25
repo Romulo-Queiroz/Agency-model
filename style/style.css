@@ -146,7 +146,8 @@ a:hover{
 }
 /* Sobre a empresa */
 .Footer-container{
-    background-image: url('../imagens/rodape.jpg');
+    background-image: url('../imagens/footer.jpg');
+    background-position: center;
 }
 .about-container{
     max-width: 1200px;
@@ -188,7 +189,7 @@ footer{
     position: relative;
 }
 .form-container{
-    width: 65%;
+    width: 68%;
     height: 375px;
     position: relative;
     display: block;
