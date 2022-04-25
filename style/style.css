@@ -162,6 +162,7 @@ a:hover{
     background-color: #fff;
     text-align: center;
     box-sizing: border-box;
+    border-radius: 9px;
 }
 .middle-card{
     margin-left: 5%;
